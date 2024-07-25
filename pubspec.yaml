@@ -1,7 +1,8 @@
 name: nex_common_toast
 description: A Flutter package that provides a convenient way to display customizable toast messages using the `oktoast` package.
-version: 0.0.1
-homepage: 
+version: 0.0.3
+homepage: https://github.com/Nexever-Dev/nex_common_toast/blob/main/example/lib/main.dart
+repository: https://github.com/Nexever-Dev/nex_common_toast.git
 
 environment:
   sdk: '>=3.1.2 <4.0.0'

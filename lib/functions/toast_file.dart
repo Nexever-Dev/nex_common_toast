@@ -81,7 +81,7 @@ abstract class ToastFile {
   /// Note:
   /// Ensure the toast package is properly initialized and imported before
   /// using this function.
-   void toastMsg({
+  void toastMsg({
     required String msg,
     Color? backgroundColor,
     ToastPosition? position,
